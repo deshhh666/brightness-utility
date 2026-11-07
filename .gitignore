@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.bak
+*.tmp
+diagnostics.txt
+smoke-test*
+design/
+bin/
+obj/
+__pycache__/
